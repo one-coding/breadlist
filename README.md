@@ -1,2 +1,0 @@
-# breadlist
-breadlist project
