@@ -10,7 +10,7 @@
           <b-navbar-nav>
             <b-nav-item href="/Shop">커뮤니티</b-nav-item>
             <b-nav-item href="#">스토어</b-nav-item>
-            <b-nav-item href="#">고객센터</b-nav-item>
+            <b-nav-item href="#">고객지원</b-nav-item>
           </b-navbar-nav>
           <b-navbar-nav class="ml-auto">
             <b-nav-item href="#">로그인</b-nav-item>
